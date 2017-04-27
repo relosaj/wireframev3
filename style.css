@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+	font-family: Arial;
+	font-size: 18px;
+	background-color: #777;
+	text-align: center;
+	font-color: #ebebeb;
+	width: 960px;
+	margin: 0 0px 0px 200px;
+}
+
+
+header {
+	float: left;
+	width: 960px;
+	background: lightgray;
+	padding: 40px;
+	margin: 0 0px 10px 0px;
+}
+
+nav {
+	float: left;
+	width: 100%;
+	background: lightgray;
+	padding: 40px;
+	margin: 0 0px 10px 0px;
+}
+
+.middle{
+	clear: both;
+	float: left;
+	width: 960px;
+	height: 300px;
+}
+
+.container {
+	clear: both;
+	float: left;
+	background: lightgray;
+	height: 300px;
+	margin: 0 0 10px 0px;
+	padding: 30px 0 0 0;
+	width: 495px;
+}
+
+.article1 {
+	background: #777;
+	color: white;
+	border: 10px;
+	padding: 30px 20px 0px 20px;
+	margin: 15px;
+	height: 220px;
+}
+
+
+.hs {
+	float: left;		
+	background: lightgray;
+	color: black;
+	padding: 20px;
+	margin: 40px 0 0 0;
+	margin: 20px 15px 0 15px;	
+	width: 90%;
+}
+
+p {
+	float: left;	
+	background: lightgray;
+	color: black;
+	padding: 20px;
+	margin: 5px 15px;
+	width: 90%;
+}
+
+
+aside {
+	float: left;
+	text-align: center;
+	background: lightgray;
+	padding: 30px;
+	width: 450px;
+	height: 300px;
+	margin: 0 0 0 15px;
+}
+
+footer {
+	clear: both;
+	float: left;
+	background: lightgray;
+	font-family: Arial;
+	font-size: 18px;
+	margin: 10px 0px 10px 0px;
+	padding: 40px;
+	text-align: center;
+	width: 100%;
+}
+
+</style> 
+<!-- END CSS -->
